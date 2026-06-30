@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "cruise-group-tours",
+  "description": "为团体旅行提供邮轮产品，满足团队的多样化需求。"
+}
